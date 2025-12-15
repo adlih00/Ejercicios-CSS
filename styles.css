@@ -1,5 +1,5 @@
 /* 
-    INDICACIONES
+    Indicaciones
 */ 
 
 
@@ -14,7 +14,7 @@ Familia de fuentes:Arial, Helvetica, sans-serif;
 }
 /*Todos los párrafos de la página 
 color: #555;*/
-p{
+#segundo{
     color: #555;
 }
 /*Todos los párrafos contenidos en #primero 
@@ -30,7 +30,7 @@ a {
 /*Los elementos <em> contenidos en #primero 
 color: #0000BB;
 background-color: #FFFFCC;*/
-em#primero{
+em{
    color: #0000BB;
    background-color: #FFFFCC; 
 }
