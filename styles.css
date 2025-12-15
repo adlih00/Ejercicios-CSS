@@ -30,7 +30,7 @@ a {
 /*Los elementos <em> contenidos en #primero 
 color: #0000BB;
 background-color: #FFFFCC;*/
-em{
+#primero em{
    color: #0000BB;
    background-color: #FFFFCC; 
 }
